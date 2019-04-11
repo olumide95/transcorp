@@ -1,0 +1,92 @@
+html {
+  font-size: 14px;
+  font-family: 'Open Sans', sans-serif;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.nav {
+	margin-right: 10% !important;
+}
+.nav-signup {
+    width: 120px;
+  height: 42px;
+  color: white;
+  background-color: #50e3c2;
+  }
+
+  .nav-text {
+ 
+  color: #ffffff;
+  }
+
+.container {
+  max-width: 1060px;
+}
+
+.header {
+  max-width: 700px;
+}
+
+.card-deck .card {
+  min-width: 220px;
+}
+
+.border-top { border-top: 1px solid #e5e5e5; }
+.border-bottom { border-bottom: 1px solid #e5e5e5; }
+
+.box-shadow { box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05); }
+
+  
+  .list-group-item{
+    color: #58594f;
+      font-size: 13px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  }
+
+
+  .grade-text {
+     color: #6c63ff;
+   
+  }
+.add-task {
+border: solid 1px #6c63ff;
+
+  background-color: #ffffff;
+  color: #6c63ff;
+}
+
+.add-task:hover{
+background-color: #6c63ff;
+  color:  #ffffff;
+  }
+    .task-grade{
+  width: 60px;
+  height: 24px;
+  border: solid 1px #6c63ff;
+  background-color: #f5f5f5;
+  border-radius: 3px;
+  float: right;
+  text-align: center;
+  }
+
+
+  .text-light {
+color: white !important;
+  }
+
+ .timestamp {
+    color: #9b9b9b;
+ }
+
+ .task-description{
+ 	font-family: 'Open Sans', sans-serif;
+  font-size: 15px !important;
+ }
